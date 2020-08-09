@@ -11,7 +11,9 @@ The following tools are needed to run the program successfully:
 - openCV
 
 
-You will need an additional `yolo.h5` package to run the program. This package supports the code written for person detection. This package is available for download from [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5). The custom trained package for Fire arm detection can be downloaded from [here](). Keep it in the same directory as the `detector.py` file.
+You will need two additional packages to run the program. The first one is`yolo.h5` package which supports the code written for person detection. This package is available for download from [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5). 
+
+The second one is my own custom trained package for Fire arm's or guns detection that can be downloaded from [here](https://drive.google.com/drive/folders/1jI6bMrIxsNYqv1nG9vCc7A8GEP2dxsUo?usp=sharing). Keep it in the same directory as the `detector.py` file.
 
 ## Run the program
 
