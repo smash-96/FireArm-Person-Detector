@@ -1,4 +1,4 @@
-# Custom Fire Arm and Person Detection Using ImageAI
+# Fire Arm and Person Detection Using ImageAI
 
 ## Description
 This program detects Fire Arms or people carrying Fire Arms in videos provided as input. The program is made in such a way that live timestamp values can be extracted from videos and then search for guns or people or both depending upon the situation. The program is made using the _ImageAI_ library which allows the use of built-in and custom object detectors with very few lines. The videos folder contains some test videos for testing.

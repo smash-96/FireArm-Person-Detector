@@ -51,8 +51,8 @@ custom_objects = detector.CustomObjects(person=True)
 ## Gun Detector
 video_detector = CustomVideoObjectDetection()
 video_detector.setModelTypeAsYOLOv3()
-video_detector.setModelPath("guns/models/detection_model-ex-007--loss-0007.753.h5")
-video_detector.setJsonPath("guns/json/detection_config.json")
+video_detector.setModelPath("guns/models/detection_model-ex-007--loss-0007.753.h5") # Custom model files
+video_detector.setJsonPath("guns/json/detection_config.json") # Custom model files
 video_detector.loadModel()
 
 
